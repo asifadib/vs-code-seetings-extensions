@@ -1,0 +1,68 @@
+{
+    //Code Editor Some Important Setting
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.minimap.maxColumn": 50,
+    "editor.fontFamily": "Consolas, 'Fira Code', Roboto",
+    "editor.fontSize": 18,
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+  
+    // Comment Text Style
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "comment",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    },
+  
+    // Cursor Setting
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+  
+    // Terminal Setting
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "cSpell.userWords": ["Asif"],
+  
+    // Live Sass Compailer Setting
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css"
+      }
+    ],
+    "liveSassCompile.settings.autoprefix": [],
+    "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  
+    // Code Runner Setting
+    "code-runner.runInTerminal": true,
+  
+  
+    // Config related to code formatting
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.tslint": true,
+      "source.organizeImports": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  
+    // TabNine intelicense
+    "tabnine.experimentalAutoImports": true
+}

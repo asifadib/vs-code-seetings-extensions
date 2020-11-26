@@ -1,0 +1,61 @@
+===================
+VS Code Extensions:
+===================
+
+1. Dracula Official - Dracula Theme
+
+2. Andromeda - Eliver Lara
+
+3. Cobalt2 Theme Official - Wes Bos
+
+4. vscode-icons - VSCode Icons Team
+
+5. Live Server - Ritwik dey
+
+6. Auto Close Tag - Jun Han
+
+7. Auto Rename Tag - Jun Han
+
+8. ES Lint - Dirk Baeumer
+
+9. Beautify - HookyQR
+
+10. Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+
+11. Bracket Pair Colorizer
+
+12. Code Runner - Jun Han
+
+13. Code Spell Checker
+
+14. Code Time
+
+15. Debugger for Chrome
+
+16. Emoji Snippets - Devzstudio
+
+17. HTML CSS Support
+
+18. IntelliSense for CSS class names in HTML
+
+19. JavaScript (ES6) code snippets
+
+20. Live Sass Compiler
+
+21. Live Server
+
+22. Path Intellisense
+
+23. Polacode
+
+24. Prettier - Code formatter
+
+25. Project Manager
+
+26. Settings Sync
+
+27. Tabnine Autocomplete AI
+
+28. Quokka.js
+
+29. Turbo Console Log - ChakrounAnas
